@@ -1,7 +1,10 @@
 {
     "time": 16,
-    "transpose": -1,
+    "transpose": -3,
     "voices": [
-        
+        "strings/violin I.json",
+        "strings/violin II.json",
+        "strings/viola.json",
+        "strings/bass.json"
     ]
 }
