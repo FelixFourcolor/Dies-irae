@@ -1,0 +1,18 @@
+{
+    "instrument": "bass",
+    "dynamic": 4,
+    "beat": 2,
+    "notes": [
+        "| 1", { "sustain": 4 }, "d 4b", { "dynamic": 3 }, "d 4b",
+        "| 2", { "sustain": false, "dynamic": 2 }, "r 2b", "d", "d", { "dynamic": 3 }, "d", "d", { "dynamic": 4 }, "d", "d",
+        "| 3", { "sustain": 4 }, "a_ 4b", { "dynamic": 3 }, "a_ 4b",
+        "| 4", { "sustain": false, "dynamic": 2 }, "r 2b", "d", "d", "d", "d", { "dynamic": 3 }, "g", "g",
+        "| 5", "r 2b", "d", "d", { "sustain": 4 }, "d 4b", { "sustain": false },
+        "| 6", "r 2b", "d", "d", { "sustain": 4 }, "d 4b", { "sustain": false },
+        "| 7", "d", "d", "d", "d", { "sustain": 4 }, "a_ 2b", "d 2b", { "sustain": false },
+        "| 8", "a_", "a_ 1", "a_ 1", { "dynamic": 3 }, "a_", "a_", { "dynamic": 2 }, "a_", "a_", "a_", "a_",
+        "| 9", "a_ 8b",
+        "||10",
+        "|"
+    ]
+}

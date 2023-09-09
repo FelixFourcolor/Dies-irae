@@ -2,9 +2,16 @@
     "time": 16,
     "transpose": -3,
     "voices": [
-        "strings/violin I.json",
-        "strings/violin II.json",
+        "strings/bass.json",
         "strings/viola.json",
-        "strings/bass.json"
+        "strings/violin II.json",
+        "strings/violin I.json",
+        "percussions/trumpet I.json",
+        "percussions/trumpet II.json",
+        "percussions/timpani.json",
+        { },
+        { },
+        { },
+        { }
     ]
 }
