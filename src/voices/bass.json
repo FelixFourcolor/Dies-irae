@@ -1,18 +1,19 @@
 {
     "instrument": "guitar",
+    "dynamic": 4,
     "sustain": -3,
     "beat": 4,
     "notes": [
-        "| 1", { "dynamic": 4, "sustainDynamic": 3 }, "d^ 2b", "d^ 2b", { "sustainDynamic": 2 },
-        "| 2", { "name": "d^", "sustain": -1 }, { "dynamic": 3 }, "d^", "r 2b",
-        "| 3", { "dynamic": 4, "sustainDynamic": 3 }, "cs^ 2b", "cs^ 2b", { "sustainDynamic": 2 },
-        "| 4", { "name": "d^", "sustain": -1 }, { "dynamic": 3 }, { "name": "d^", "dynamic": 3 }, "r", "d 2", "d 2",
-        "| 5", { "name": "e", "dynamic": 4, "sustain": -1 }, "f", "r", "f 2", "f 2",
-        "| 6", { "name": "cs", "dynamic": 4, "sustain": -1 }, "d", "r", "d^ 2", "c^ 2",
-        "| 7", "bb", "a", "g", "d",
-        "| 8", { "name": "f", "dynamic": 4, "sustain": -1 }, "f", "r 2b",
+        "| 1", { "sustainDynamic": 3 }, "d^ 2b", "d^ 2b", { "sustainDynamic": 2 },
+        "| 2", { "name": "d^", "sustain": true }, { "name": "d^", "dynamic": 3 }, "r 2b",
+        "| 3", { "sustainDynamic": 3 }, "cs^ 2b", "cs^ 2b", { "sustainDynamic": 2 },
+        "| 4", { "name": "d^", "sustain": true }, { "name": "d^", "dynamic": 3 }, "r", "d 2", "d 2",
+        "| 5", { "name": "e", "sustain": true }, { "name": "f", "dynamic": 3 }, "r", "f 2", "f 2",
+        "| 6", { "name": "cs", "sustain": true }, { "name": "d", "dynamic": 3 }, "r", "d^ 2", "c^ 2",
+        "| 7", { "sustain": -1 }, "bb", { "dynamic": 3, "sustainDynamic": 2 }, "a", "g", "d", { "dynamic": 4, "sustainDynamic": null, "sustain": -3 },
+        "| 8", { "name": "f", "sustain": true }, { "name": "f", "dynamic": 3 }, "r 2b",
         "||9",
-        "| 10", { "name": "f 2b.", "dynamic": 4, "sustainDynamic": 3 }, "f",
+        "| 10", { "name": "f 2b.", "sustainDynamic": 3 }, "f",
         "|"
     ]
 }

@@ -3,19 +3,19 @@
     "transpose": 5,
     "beat": 4,
     "dynamic": 3,
-    "sustainDynamic": 1,
+    "sustainDynamic": 2,
     "sustain": true,
     "notes": [
         "| 1", "c 2b", "c 2b",
-        "| 2", "d 4b",
+        "| 2", { "name": "d 2b.", "sustainDynamic": 1 }, { "name": "d", "dynamic": 2 },
         "| 3", "d 2b", "d 2b",
-        "| 4", "c 2b.", "c",
+        "| 4", { "name": "c 2b.", "sustainDynamic": 1 }, "c",
         "| 5", "d", "e", "r", "c",
         "| 6", "b_", "a_", "r", "e",
         "| 7", "d", "e", "f", "e",
         "| 8", "e", "e", "r 2b",
-        "| 9", "r 2b", { "dynamic": 1 }, "g_ 2", "c 2", { "dynamic": 2, "sustainDynamic": 2 }, "c 2", "f 2",
-        "| 10", { "dynamic": 3, "sustainDynamic": 1 }, "e 4b",
+        "| 9", "r 2b", { "dynamic": 2 }, "g_ 2", "c 2", { "dynamic": 3, "sustainDynamic": 3 }, "c 2", "f 2",
+        "| 10", { "sustainDynamic": 2 }, "e 4b",
         "|"
     ]
 }

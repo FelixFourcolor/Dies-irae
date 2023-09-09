@@ -5,13 +5,13 @@
     "transpose": 2,
     "notes": [
         "| 1", { "sustain": 4, "dynamic": 3 }, "c 4b", { "dynamic": 2 }, "c 4b",
-        "| 2", { "sustain": false, "dynamic": 1 }, "r 2b", "c", "c", { "dynamic": 2 }, "c", "c", "c", "c",
+        "| 2", { "sustain": false, "dynamic": 1 }, "r 2b", "c", "c", "c", "c", { "dynamic": 2 }, "c", "c",
         "| 3", { "sustain": 4, "dynamic": 3 }, "g_ 4b", { "dynamic": 2 }, "g_ 4b",
         "| 4", { "sustain": false, "dynamic": 1 }, "r 2b", "c", "c", "c", "c", { "dynamic": 2 }, "c", "c",
         "| 5", "r 2b", "c", "c", { "sustain": 4 }, "c 4b", { "sustain": false },
         "| 6", "r 2b", "c", "c", { "sustain": 4 }, "c 4b",
-        "| 7", { "dynamic": 3 }, "c 4b", { "sustain": 2 }, "g 2b", "c 2b",
-        "| 8", { "sustain": 4, "dynamic": 3 }, "g_ 2b", { "dynamic": 2, "sustain": false }, "g_", "g_", { "dynamic": 1 }, "g", "g", "g", "g",
+        "| 7", { "name": "c 4b", "sustain": true }, "g 2b", "c 2b",
+        "| 8", { "dynamic": 3 }, "g_ 2b", { "dynamic": 2, "sustain": false }, "g_", "g_", { "dynamic": 1 }, "g", "g", "g", "g",
         "| 9", "g_ 8b",
         "||10",
         "|"
