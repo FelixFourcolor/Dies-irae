@@ -3,16 +3,16 @@
     "beat": 2,
     "sustainDynamic": 2,
     "notes": [
-        "| 1", { "dynamic": 2, "sustain": true }, { "name": "a_ 1", "dynamic": 3 }, "d 1", "d 1", "d 1", "d 2b", { "name": "a_ 1", "dynamic": 3 }, "d 1", "d 1", "d 1", "d 2b",
+        "| 1", { "sustain": true }, { "name": "a_ 1", "dynamic": 4 }, "d 1", "d 1", "d 1", "d 2b", { "name": "a_ 1", "dynamic": 4 }, "d 1", "d 1", "d 1", "d 2b",
         "| 2", { "dynamic": 4, "sustain": -1 }, "a_", "e 2b", "e 2b", "e 2b", "e",
-        "| 3", { "dynamic": 3, "sustain": true }, "a_ 4b", "a_ 4b",
-        "| 4", { "dynamic": 4, "sustain": -1 }, "a_", "d 2b", "d 2b", "d 2b", "d",
+        "| 3", { "sustain": true }, "a_ 4b", "a_ 4b",
+        "| 4", { "sustain": -1 }, "a_", "d 2b", "d 2b", "d 2b", "d",
         "| 5", "bb_ 2b", "a_", "a_", "a_", "d 2b", "f",
         "| 6", "e 2b", "f", "f", "f", "f 2b", "f",
         "| 7", "d", "d", "d", "d", "cs", "e", "f", "a",
-        "| 8", "a", "a_", "a_", "a_", { "dynamic": 3 }, "a_", "a_", "a_", "a_",
-        "| 9", { "dynamic": 2 }, "a_", "a_", "bb_", "b_", { "dynamic": 3 }, "c", "f", { "dynamic": 4 }, "f", "g",
-        "| 10", { "dynamic": 2, "sustain": true }, { "name": "c 1", "dynamic": 3 }, "f 1", "f 1", "f 1", "f 2b", { "name": "c 1", "dynamic": 3 }, "f 1", "f 1", "f 1", "f 2b",
+        "| 8", "a", "a_", "a_", "a_", { "dynamic": 3 }, "a_", "a_", { "dynamic": 2 }, "a_", "a_",
+        "| 9", { "dynamic": 1 }, "a_", "a_", { "dynamic": 2 }, "bb_", "b_", { "dynamic": 3 }, "c", "f", { "dynamic": 4 }, "f", "g",
+        "| 10", { "dynamic": 2, "sustain": true }, { "name": "c 1", "dynamic": 4 }, "f 1", "f 1", "f 1", "f 2b", { "name": "c 1", "dynamic": 4 }, "f 1", "f 1", "f 1", "f 2b",
         "|"
     ]
 }

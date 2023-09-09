@@ -1,0 +1,21 @@
+{
+    "instrument": "flute",
+    "transpose": -7,
+    "beat": 4,
+    "dynamic": 3,
+    "sustainDynamic": 2,
+    "sustain": true,
+    "notes": [
+        "| 1", "a 2b", "e 2b",
+        "| 2", { "name": "b 2b", "sustainDynamic": 1 }, { "name": "b 2b", "dynamic": 2 },
+        "| 3", "b 2b", "e 2b",
+        "| 4", { "name": "c^ 2b", "sustainDynamic": 1 }, { "name": "c^", "dynamic": 2 }, "a",
+        "| 5", "gs", "a", "r", "a",
+        "| 6", "b", "c^", { "name": "a 2b", "sustainDynamic": 1 },
+        "| 7", { "name": "a", "dynamic": 2 }, "c^", "b", "a",
+        "| 8", "a", "gs", "r 2b",
+        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": 2 }, "g 2", "gs 2", { "dynamic": 3, "sustainDynamic": 3 }, "a 2", "b 2", { "sustainDynamic": 2 },
+        "| 10", "c^ 2b.", "g",
+        "|"
+    ]
+}

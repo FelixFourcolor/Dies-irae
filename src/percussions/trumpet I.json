@@ -1,6 +1,7 @@
 {
     "instrument": "pling",
     "beat": 2,
+    "sustainDynamic": "-1",
     "transpose": 2,
     "notes": [
         "| 1", { "sustain": 4 }, "c^ 4b", { "dynamic": 1 }, "c^ 4b",
@@ -9,8 +10,8 @@
         "| 4", { "sustain": false }, "r 2b", "g", "g", "g", "g", "g", "g",
         "| 5", "r 2b", "g", "g", { "sustain": 4 }, "g 4b", { "sustain": false },
         "| 6", "r 2b", "g", "g", { "sustain": 4 }, "g 4b",
-        "| 7", { "dynamic": 2 }, "c^ 4b", { "sustain": false }, "d^ 2b", "c^ 2b",
-        "| 8", { "sustain": 4 }, "g 2b", { "dynamic": 1, "sustain": false }, "g", "g", { "dynamic": 0 }, "g", "g", "g", "g",
+        "| 7", { "dynamic": 2 }, "c^ 4b", { "sustain": false, "dynamic": 1 }, "d^ 2b", "c^ 2b",
+        "| 8", { "sustain": 4, "dynamic": 2 }, "g 2b", { "dynamic": 1, "sustain": false }, "g", "g", { "dynamic": 0 }, "g", "g", "g", "g",
         "| 9", "g 8b",
         "||10",
         "|"

@@ -1,17 +1,18 @@
 {
-    "instrument": "bass",
+    "instrument": "harp",
     "beat": 2,
+    "sustain": -1,
     "notes": [
-        "| 1", "d", "f", "a", "d^", "d", "f", "a", "d^",
-        "| 2", "d", "d^ 2b", "d^ 2b", "d^ 2b", "d^",
-        "| 3", "cs", "e", "a", "cs^", "cs", "e", "a", "cs^",
-        "| 4", "d", "d^ 2b", "d^ 2b", "d^ 2b", "d",
+        "| 1", { "dynamic": 3 }, "d", "f", "a", "d^", "d", "f", "a", "d^",
+        "| 2", { "dynamic": 4 }, "d", "d^ 2b", "d^ 2b", "d^ 2b", "d^",
+        "| 3", { "dynamic": 3 },"cs", "e", "a", "cs^", "cs", "e", "a", "cs^",
+        "| 4", { "dynamic": 4 },"d", "d^ 2b", "d^ 2b", "d^ 2b", "d",
         "| 5", "e 2b", "f 2b", "r 2b", "f 2b",
-        "| 6", "cs 2b", "d 2b", "r", "d", "d^", "c^",
+        "| 6", "cs 2b", "d 2b", "r", { "dynamic": 3 },"d", "d^", "c^",
         "| 7", "bb", "bb_", "a_", "a", "g", { "name": "g_", "transpose": 12 }, "d", "d^",
-        "| 8", "a", "a_", "a", "a", { "dynamic": 1 }, "a", "a", "a", "a",
-        "| 9", "a", "a", "b", "b", { "dynamic": 2 }, "c^", "a", { "dynamic": 3 }, "bb", "g",
-        "| 10", { "dynamic": 2 }, "f", "f", "f", "f", "f", "f", "f", "f",
+        "| 8", "a", "a_", "a", "a", { "dynamic": 2 }, "a", "a", "a", "a",
+        "| 9", { "dynamic": 1 }, "a", "a", { "dynamic": 2 }, "b", "b", { "dynamic": 3 }, "c^", "a", { "dynamic": 4 }, "bb", "g",
+        "| 10", { "dynamic": 3 }, "f", "f", "f", "f", "f", "f", "f", "f",
         "|"
     ]
 }

@@ -1,6 +1,7 @@
 {
     "instrument": "bass",
     "dynamic": 4,
+    "sustainDynamic": "-1",
     "beat": 2,
     "notes": [
         "| 1", { "sustain": 4 }, "d 4b", { "dynamic": 3 }, "d 4b",
