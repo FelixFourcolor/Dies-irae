@@ -2,20 +2,20 @@
     "time": 16,
     "transpose": -1,
     "voices": [
-        "winds/basset horn I.json",
-        "winds/basset horn II.json",
         "winds/bassoon II.json",
+        "winds/basset horn II.json",
         "winds/bassoon I.json",
+        "winds/basset horn I.json",
         "strings/violin I.json",
         "strings/violin II.json",
         "strings/viola.json",
-        "strings/bass.json",
+        "strings/cello.json",
         "percussions/trumpet I.json",
         "percussions/trumpet II.json",
         "percussions/timpani.json",
-        { },
-        { },
-        { },
-        { }
+        "voices/bass.json",
+        "voices/tenor.json",
+        "voices/alto.json",
+        "voices/soprano.json"
     ]
 }

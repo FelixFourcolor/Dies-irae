@@ -1,0 +1,18 @@
+{
+    "instrument": "guitar",
+    "sustain": -3,
+    "beat": 4,
+    "notes": [
+        "| 1", { "dynamic": 4, "sustainDynamic": 3 }, "f^ 2b", "f^ 2b", { "sustainDynamic": 2 },
+        "| 2", { "name": "g^", "sustain": -1 }, { "dynamic": 3 }, "g^", "r 2b",
+        "| 3", { "dynamic": 4, "sustainDynamic": 3 }, "g^ 2b", "g^ 2b", { "sustainDynamic": 2 },
+        "| 4", { "name": "f^", "sustain": -1 }, { "dynamic": 3 }, { "name": "f^", "dynamic": 3 }, "r", "f^ 2", "f^ 2",
+        "| 5", { "name": "e^", "dynamic": 4, "sustain": -1 }, "d^", "r", "a 2", "a 2",
+        "| 6", { "name": "e^", "dynamic": 4, "sustain": -1 }, "d^", "r", "f^ 2", "f^ 2",
+        "| 7", "d^", "d^", "cs^", "f^",
+        "| 8", { "name": "f^", "dynamic": 4, "sustain": -1 }, "e^", "r 2b",
+        "||9",
+        "| 10", { "name": "c^ 2b.", "dynamic": 4, "sustainDynamic": 3 }, "f",
+        "|"
+    ]
+}

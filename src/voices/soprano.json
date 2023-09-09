@@ -1,0 +1,18 @@
+{
+    "instrument": "bit",
+    "sustain": -3,
+    "beat": 4,
+    "notes": [
+        "| 1", { "dynamic": 4, "sustainDynamic": 3 }, "d^ 2b", "a 2b", { "sustainDynamic": 2 },
+        "| 2", { "name": "e^", "sustain": -1 }, { "dynamic": 3 }, "a", "r 2b",
+        "| 3", { "dynamic": 4, "sustainDynamic": 3 }, "e^ 2b", "a 2b", { "sustainDynamic": 2 },
+        "| 4", { "name": "f^", "sustain": -1 }, { "dynamic": 3 }, { "name": "d^", "dynamic": 3 }, "r", "d^ 2", "d^ 2",
+        "| 5", { "name": "cs^", "dynamic": 4, "sustain": -1 }, "d^", "r", "d^ 2", "d^ 2",
+        "| 6", { "name": "e^", "dynamic": 4, "sustain": -1 }, "f^", { "name": "d^ .", "dynamic": 4, "sustain": -1 }, "d^ 2",
+        "| 7", "g^", "f^", "e^", "d^",
+        "| 8", { "name": "d^", "dynamic": 4, "sustain": -1 }, "cs^", "r 2b",
+        "||9",
+        "| 10", { "name": "f^ 2b.", "dynamic": 4, "sustainDynamic": 3 }, "c^",
+        "|"
+    ]
+}

@@ -2,7 +2,7 @@
     "instrument": "flute",
     "transpose": 5,
     "beat": 4,
-    "dynamic": 2,
+    "dynamic": 3,
     "sustainDynamic": 1,
     "sustain": true,
     "notes": [
@@ -14,8 +14,8 @@
         "| 6", "b_", "a_", "r", "e",
         "| 7", "d", "e", "f", "e",
         "| 8", "e", "e", "r 2b",
-        "| 9", "r 2b", { "dynamic": 1 }, "g_ 2", "c 2", { "dynamic": 2, "sustainDynamic": 2 }, "c 2", "f 2", { "sustainDynamic": 1 },
-        "| 10", "e 4b",
+        "| 9", "r 2b", { "dynamic": 1 }, "g_ 2", "c 2", { "dynamic": 2, "sustainDynamic": 2 }, "c 2", "f 2",
+        "| 10", { "dynamic": 3, "sustainDynamic": 1 }, "e 4b",
         "|"
     ]
 }

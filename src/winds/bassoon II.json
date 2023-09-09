@@ -1,6 +1,7 @@
 {
     "instrument": "didgeridoo",
     "beat": 4,
+    "dynamic": 3,
     "sustain": true,
     "notes": [
         "| 1", "d^ 2b", "d^ 2b",
@@ -12,7 +13,7 @@
         "| 7", "bb", "a", "g", "f",
         "| 8", "a", "a_", "r 2b",
         "| 9", "r 2b", { "dynamic": 1 }, "c^ 2", "a 2", { "dynamic": 2, "sustainDynamic": 2 }, "bb 2", "g 2", { "sustainDynamic": 1 },
-        "| 10", "f 2b.", "f",
+        "| 10",  { "dynamic": 3, "sustainDynamic": 1 }, "f 2b.", "f",
         "|"
     ]
 }
