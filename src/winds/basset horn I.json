@@ -14,8 +14,19 @@
         "| 6", "b", "c^", "a 2b 1b",
         "c^", "b", "a",
         "| 8", "a", "gs", "r 2b",
-        "| 9", "r 2b", { "dynamic": 2 }, "g 2", "gs 2", { "dynamic": 3, "sustainDynamic": 3 }, "a 2", "b 2",
+        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": "+0" }, "g 2", "gs 2", { "dynamic": 3 }, "a 2", "b 2",
         "| 10", { "sustainDynamic": 2 }, "c^ 2b.", "g",
-        "|"
+        "| 11", "e", { "name": "c", "instrument": "harp" }, "e", "g",
+        "| 12", "bb 2b", "a 2b",
+        "| 13", "d 2b.", "a",
+        "| 14", "fs", "d", "fs", "a",
+        "| 15", "c^ 2b", "b 2b",
+        "| 16", "b 4b 2b",
+        "a 2b 1b",
+        "g", "fs 2b",
+        "| 19", "e", "r 3b",
+        "||20",
+        "||21",
+        "| 22"
     ]
 }

@@ -13,8 +13,19 @@
         "| 6", "e", "d", "r", "d",
         "| 7", "g", "f", "cs", "d",
         "| 8", "f", "e", "r 2b",
-        "| 9", "r 2b", { "dynamic": 2 }, "c 2", "cs 2", { "dynamic": 3, "sustainDynamic": 3 }, "d 2", "e 2",
+        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": "+0" }, "c 2", "cs 2", { "dynamic": 3 }, "d 2", "e 2",
         "| 10", { "sustainDynamic": 2 }, "f 4b",
-        "|"
+        "| 11", "f 2b.", "c",
+        "| 12", "a", { "name": "fs_", "instrument": "guitar" }, "a", "c",
+        "| 13", "c 2b", "b_ 2b",
+        "| 14", "g 2b.", "d",
+        "| 15", "b_", "gs_", "b", "d",
+        "| 16", "c .", "a_ 2", "d .", "b_ 2",
+        "| 17", "e", "a_", "r", "f",
+        "| 18", "e", "e", "e 2b",
+        "| 19", "e", "r", { "beat": 2, "dynamic": 1, "sustainDynamic": "+0" }, "r", "c", "b_", "a_",
+        "| 20", { "dynamic": 2 }, "gs_", "f", "d", "c", "b_", "a_", "gs_", "b_",
+        "| 21", { "dynamic": 3 }, "a_", "c", "d", "f", "e", "d", "e", "e",
+        "| 22", { "beat": 4, "sustainDynamic": 2 }
     ]
 }

@@ -13,8 +13,19 @@
         "| 6", "cs", "d", "r", "d^ 2", "cs^ 2",
         "| 7", "bb", "a", "g", "f",
         "| 8", "a", "a_", "r 2b",
-        "| 9", "r 2b", { "dynamic": 2 }, "c^ 2", "a 2", { "dynamic": 3, "sustainDynamic": 3 }, "bb 2", "g 2",
+        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": "+0" }, "c^ 2", "a 2", { "dynamic": 3 }, "bb 2", "g 2",
         "| 10", { "sustainDynamic": 2 }, "f 2b.", "f",
-        "|"
+        "| 11", "f", "f", "f", "f",
+        "| 12", "fs 2b", "fs 2b",
+        "| 13", "g 2b.", "g",
+        "| 14", "g", "g", "g", "g",
+        "| 15", "gs 2b", "gs 2b",
+        "| 16", "a 2b", "b 2b",
+        "| 17", "c^ 2b", "d^ 2b",
+        "| 18", "e^", "a", "e 2b",
+        "| 19", "a", "r", { "beat": 2, "dynamic": 1, "sustainDynamic": "+0" }, "r", "c^", "b", "a",
+        "| 20", { "dynamic": 2 }, "gs", "f^", "d^", "c^", "b", "a", "gs", "b",
+        "| 21", { "dynamic": 3 }, "a", "c", "d", "f", "e", "d", "e", "e",
+        "| 22", { "beat": 4, "sustainDynamic": 2 }
     ]
 }
