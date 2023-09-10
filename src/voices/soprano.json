@@ -4,16 +4,16 @@
     "sustain": -3,
     "beat": 4,
     "notes": [
-        "| 1", { "sustainDynamic": 3 }, "d^ 2b", "a 2b", { "sustainDynamic": 2 },
+        "| 1", "d^ 2b", "a 2b", 
         "| 2", { "name": "e^", "sustain": true }, { "name": "a", "dynamic": 3 }, "r 2b",
-        "| 3", { "sustainDynamic": 3 }, "e^ 2b", "a 2b", { "sustainDynamic": 2 },
+        "| 3", "e^ 2b", "a 2b", 
         "| 4", { "name": "f^", "sustain": true }, { "name": "d^", "dynamic": 3 }, "r", "d^ 2", "d^ 2",
         "| 5", { "name": "cs^", "sustain": true }, { "name": "d^", "dynamic": 3 }, "r", "d^ 2", "d^ 2",
-        "| 6", { "name": "e^", "sustain": true }, { "name": "f^", "dynamic": 3 }, { "name": "d^ .", "sustainDynamic": 3, "sustain": -1 }, "d^ 2",
-        "| 7", { "sustain": -1 }, "g^", { "dynamic": 3, "sustainDynamic": 2 }, "f^", "e^", "d^", { "dynamic": 4, "sustainDynamic": null, "sustain": -3 },
+        "| 6", { "name": "e^", "sustain": true }, { "name": "f^", "dynamic": 3 }, { "name": "d^ .", "sustain": -1 }, "d^ 2",
+        "| 7", { "sustain": -1 }, "g^", { "dynamic": 3 }, "f^", "e^", "d^", { "dynamic": 4, "sustain": -3 },
         "| 8", { "name": "d^", "sustain": true }, { "name": "cs^", "dynamic": 3 }, "r 2b",
         "||9",
-        "| 10", { "name": "f^ 2b.", "sustainDynamic": 3 }, "c^",
+        "| 10", "f^ 2b.", "c^",
         "|"
     ]
 }
