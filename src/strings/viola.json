@@ -13,6 +13,17 @@
         "| 8", "a", "a_", "a_", "a_", { "dynamic": 3 }, "a_", "a_", { "dynamic": 2 }, "a_", "a_",
         "| 9", { "dynamic": 1 }, "a_", "a_", { "dynamic": 2 }, "bb_", "b_", { "dynamic": 3 }, "c", "f", { "dynamic": 4 }, "f", "g",
         "| 10", { "dynamic": 2, "sustain": true }, { "name": "c 1", "dynamic": 4 }, "f 1", "f 1", "f 1", "f 2b", { "name": "c 1", "dynamic": 4 }, "f 1", "f 1", "f 1", "f 2b",
-        "|"
+        "| 11", { "dynamic": 4 }, "f 2b", "f 2b", "f 2b", "c 2b",
+        "| 12", "a_ 2b", { "name": "fs_ 2b", "instrument": "guitar", "dynamic": 3, "sustainDynamic": 1 }, "a_ 2b", "c 2b",
+        "| 13", "c 4b", "b_ 4b",
+        "| 14", "g 4b", "g 2b", "d 2b",
+        "| 15", "b_ 2b", "gs_ 2b", "b_ 2b", "d 2b",
+        "| 16", { "dynamic": 2, "sustain": true }, { "name": "c 1", "dynamic": 4 }, "a 1", "a 1", "a 1", "a 4", { "name": "d 1", "dynamic": 4 }, "gs 1", "gs 1", "gs 1", "gs 2b",
+        "| 17", { "name": "e 1", "dynamic": 4 }, "a 1", "a 1", "a 1", "a 4", { "name": "d 1", "dynamic": 4 }, "f 1", "f 1", "f 1", "f 2b",
+        "| 18", { "dynamic": 3 }, "b_", "d", "c", "e", { "dynamic": 4 }, "e 4b",
+        "| 19", { "sustain": false }, "a_ 2b", "r 3b", { "dynamic": 2 }, "e", "fs", "ds",
+        "| 20", { "dynamic": 3 }, "e", "f", "d", "a", "b_", "f", "gs_", "e",
+        "| 21", { "dynamic": 4 }, "e", "e", "f", "f", "e", "d", "e", { "name": "e_", "instrument": "guitar", "dynamic": 3 },
+        "| 22", { "dynamic": 2, "sustain": true }
     ]
 }
