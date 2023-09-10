@@ -1,19 +1,31 @@
 {
     "instrument": "pling",
     "beat": 2,
+    "dynamic": 3,
     "sustainDynamic": "-1",
     "transpose": 2,
     "notes": [
-        "| 1", { "sustain": 4, "dynamic": 3 }, "c^ 4b", { "dynamic": 2 }, "c^ 4b",
-        "| 2", { "sustain": false, "dynamic": 1 }, "r 2b", "g", "g", { "dynamic": 2 }, "g", "g", "g", "g",
-        "| 3", { "sustain": 4, "dynamic": 3 }, "g 4b", { "dynamic": 2 }, "g 4b",
-        "| 4", { "sustain": false, "dynamic": 1 }, "r 2b", "g", "g", { "dynamic": 2 }, "g", "g", "g", "g",
-        "| 5", "r 2b", "g", "g", { "sustain": 4 }, "g 4b", { "sustain": false },
+        "| 1", { "sustain": 4 }, "c^ 4b", { "dynamic": 2 }, "c^ 4b",
+        "| 2", { "sustain": false, "dynamic": 1 }, "r 2b", "g", "g", { "dynamic": 2 }, "g", "g", { "dynamic": 3 }, "g", "g",
+        "| 3", { "sustain": 4 }, "g 4b", { "dynamic": 2 }, "g 4b",
+        "| 4", { "sustain": false, "dynamic": 1 }, "r 2b", "g", "g", { "dynamic": 2 }, "g", "g", { "dynamic": 3 }, "g", "g",
+        "| 5", { "dynamic": 2 }, "r 2b", "g", "g", { "sustain": 4 }, "g 4b", { "sustain": false },
         "| 6", "r 2b", "g", "g", { "sustain": 4 }, "g 4b",
         "| 7", { "name": "c^ 4b", "sustain": true }, "d^ 2b", "c^ 2b",
         "| 8", { "dynamic": 3 }, "g 2b", { "dynamic": 2, "sustain": false }, "g", "g", { "dynamic": 1 }, "g", "g", { "dynamic": 0 }, "g", "g",
         "| 9", "g 8b",
         "||10",
-        "|"
+        "||11",
+        "| 12", { "sustain": false, "dynamic": 2 }, "r 4b", "c^", "c^", { "dynamic": 3 }, "c^", "c^",
+        "| 13", { "sustain": 4 }, "c^ 8b",
+        "||14",
+        "| 15", { "sustain": false, "dynamic": 2 }, "r 4b", "d^", "d^", { "dynamic": 3 }, "d^", "d^",
+        "| 16", { "sustain": 4 }, "d^ 4b", { "dynamic": 2 }, "d^ 4b",
+        "| 17", { "dynamic": 3 }, "d^ 4b", { "dynamic": 2 }, "c^ 4b",
+        "| 18", "d^ 2b", "d^ 2b", { "sustain": false }, "d^", "d^", { "dynamic": 3 }, "d^", "d^",
+        "| 19", { "sustain": 4 }, "d^ 8b",
+        "||20",
+        "||21",
+        "| 22"
     ]
 }
