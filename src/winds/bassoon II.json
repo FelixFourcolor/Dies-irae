@@ -1,20 +1,20 @@
 {
     "instrument": "didgeridoo",
     "beat": 4,
-    "dynamic": 2,
-    "sustainDynamic": 1,
+    "dynamic": 3,
+    "sustainDynamic": "-1",
     "sustain": true,
     "notes": [
         "| 1", "d^ 2b", "d^ 2b",
-        "| 2", { "name": "e^ 2b.", "sustainDynamic": 1 }, { "name": "e^", "dynamic": 2 },
+        "| 2", { "name": "e^ 2b.", "sustainDynamic": 1 }, { "name": "e^", "dynamic": 2, "sustainDynamic": 2 },
         "| 3", "cs^ 2b", "cs^ 2b",
-        "| 4", { "name": "d^ 2b.", "sustainDynamic": 1 }, "d",
+        "| 4", { "name": "d^ 2b.", "sustainDynamic": 1 }, { "name": "d", "dynamic": 2, "sustainDynamic": 2 },
         "| 5", "e", "f", "r", "f",
         "| 6", "cs", "d", "r", "d^ 2", "cs^ 2",
         "| 7", "bb", "a", "g", "f",
         "| 8", "a", "a_", "r 2b",
-        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": "+0" }, "c^ 2", "a 2", { "dynamic": 3 }, "bb 2", "g 2",
-        "| 10", { "dynamic": 2, "sustainDynamic": 1 }, "f 2b.", "f",
+        "| 9", "r 2b", "c^ 2", "a 2", { "dynamic": 4 }, "bb 2", "g 2",
+        "| 10", { "dynamic": 3, "sustainDynamic": 2 }, "f 2b.", "f",
         "| 11", "f", "f", "f", "f",
         "| 12", "fs 2b", "fs 2b",
         "| 13", "g 2b.", "g",
@@ -23,9 +23,9 @@
         "| 16", "a 2b", "b 2b",
         "| 17", "c^ 2b", "d^ 2b",
         "| 18", "e^", "a", "e 2b",
-        "| 19", "a", "r", { "beat": 2, "dynamic": 1, "sustain": false }, "r", "c^", "b", "a",
-        "| 20", { "dynamic": 2 }, "gs", "f^", "d^", "c^", "b", "a", "gs", "b",
-        "| 21", { "dynamic": 3 }, "a", "c", "d", "f", "e", "d", "e", "e",
-        "| 22", { "beat": 4, "dynamic": 2, "sustain": true }
+        "| 19", "a", "r", { "beat": 2, "dynamic": 2, "sustain": false }, "r", "c^", "b", "a",
+        "| 20", { "dynamic": 3 }, "gs", "f^", "d^", "c^", "b", "a", "gs", "b",
+        "| 21", { "dynamic": 4 }, "a", "c", "d", "f", "e", "d", "e", "e",
+        "| 22", { "beat": 4, "dynamic": 3, "sustain": true }
     ]
 }

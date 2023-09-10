@@ -1,20 +1,20 @@
 {
     "instrument": "iron_xylophone",
     "beat": 4,
-    "dynamic": 2,
-    "sustainDynamic": 1,
+    "dynamic": 3,
+    "sustainDynamic": "-1",
     "sustain": true,
     "notes": [
         "| 1", "f 2b", "f 2b",
-        "| 2", "g 4b",
+        "| 2", { "name": "g 3b", "sustainDynamic": 1 }, { "name": "g", "dynamic": 2, "sustainDynamic": 2 },
         "| 3", "e 2b", "e 2b",
-        "| 4", "f 4b",
+        "| 4", { "name": "f 3b", "sustainDynamic": 1 }, { "name": "f", "dynamic": 2, "sustainDynamic": 2 },
         "| 5", "e", "d", "r", "a_",
         "| 6", "e", "d", "r", "d",
         "| 7", "g", "f", "cs", "d",
         "| 8", "f", "e", "r 2b",
-        "| 9", "r 2b", { "dynamic": 2, "sustainDynamic": "+0" }, "c 2", "cs 2", { "dynamic": 3 }, "d 2", "e 2",
-        "| 10", { "dynamic": 2, "sustainDynamic": 1 }, "f 4b",
+        "| 9", "r 2b", "c 2", "cs 2", { "dynamic": 4 }, "d 2", "e 2",
+        "| 10", { "dynamic": 3, "sustainDynamic": 2 }, "f 4b",
         "| 11", "f 2b.", "c",
         "| 12", "a", { "name": "fs_", "instrument": "guitar" }, "a", "c",
         "| 13", "c 2b", "b_ 2b",
@@ -23,9 +23,9 @@
         "| 16", "c .", "a_ 2", "d .", "b_ 2",
         "| 17", "e", "a_", "r", "f",
         "| 18", "e", "e", "e 2b",
-        "| 19", "e", "r", { "beat": 2, "dynamic": 1, "sustain": false }, "r", "c", "b_", "a_",
-        "| 20", { "dynamic": 2 }, "gs_", "f", "d", "c", "b_", "a_", "gs_", "b_",
-        "| 21", { "dynamic": 3 }, "a_", "c", "d", "f", "e", "d", "e", "e",
-        "| 22", { "beat": 4, "dynamic": 2, "sustain": true }
+        "| 19", "e", "r", { "beat": 2, "dynamic": 2, "sustain": false }, "r", "c", "b_", "a_",
+        "| 20", { "dynamic": 3 }, "gs_", "f", "d", "c", "b_", "a_", "gs_", "b_",
+        "| 21", { "dynamic": 4 }, "a_", "c", "d", "f", "e", "d", "e", "e",
+        "| 22", { "beat": 4, "dynamic": 3, "sustain": true }
     ]
 }

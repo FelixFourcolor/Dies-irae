@@ -22,7 +22,7 @@
         "| 16", { "dynamic": 4 }, "c^ 4b", "d^ 4b",
         "| 17", "c^ 4b", "c^ 2b", { "dynamic": 3 }, "b", "a",
         "| 18", { "dynamic": 4 }, "gs 2b", "a 2b", { "dynamic": 3 }, "a", "b", "gs", "b",
-        "| 19", { "name": "a", "dynamic": 4, "sustain": false }, "r", { "dynamic": 2, "sustainDynamic": "-1" }, "c^", "b", "a", "a", "a", "c^",
+        "| 19", { "name": "a", "dynamic": 4, "sustain": false }, "r", { "dynamic": 2, "sustainDynamic": "+0" }, "c^", "b", "a", "a", "a", "c^",
         "| 20", { "dynamic": 3 }, "b", "a", "f^", "e^", "d^", "c^", "b", "gs",
         "| 21", { "dynamic": 4 }, "a", "e^", "a", "d^", "a", "c^", "gs", "b",
         "| 22", { "sustainDynamic": 2 }
