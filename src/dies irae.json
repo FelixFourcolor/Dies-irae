@@ -2,10 +2,10 @@
     "time": 16,
     "transpose": -1,
     "voices": [
-        "winds/basset horn II.json",
         "winds/basset horn I.json",
-        "winds/bassoon II.json",
+        "winds/basset horn II.json",
         "winds/bassoon I.json",
+        "winds/bassoon II.json",
         "percussions/drum.json",
         "percussions/trumpet I.json",
         "percussions/trumpet II.json",

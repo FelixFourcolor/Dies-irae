@@ -27,6 +27,17 @@
         "| 19", "e", "r 3b",
         "||20",
         "||21",
-        "| 22"
+        "| 22", "e 2b", "e 2b",
+        "| 23", { "name": "fs 2b", "sustainDynamic": 1 },
+        { "name": "fs", "dynamic": 2, "sustainDynamic": 2 },
+        { "name": "fs", "dynamic": 3, "sustainDynamic": 3, "sustain": -1 },
+        "| 24", "fs 2b", "fs 2b",
+        "| 25", { "name": "e 3b", "sustainDynamic": 1 }, { "name": "e", "dynamic": 2, "sustainDynamic": 2 },
+        "| 26", "e", "g", "r", "g",
+        "| 27", "ds", "e", "r", "g 2", "fs 2",
+        "| 28", "e", "d", "c", "b_",
+        "| 29", "b_", "b_", { "dynamic": 2 }, "d 2b",
+        "| 30", { "dynamic": 1 }, "e 2b", "d", "c",
+        "| 31", { "sustain": -1 }
     ]
 }

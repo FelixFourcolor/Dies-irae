@@ -27,6 +27,17 @@
         "| 19", "e", "r 3b",
         "||20",
         "||21",
-        "| 22"
+        "| 22", "g 2b", "g 2b",
+        "| 23", { "name": "a 2b", "sustainDynamic": 1 },
+        { "name": "a", "dynamic": 2, "sustainDynamic": 2 },
+        { "name": "a", "dynamic": 3, "sustainDynamic": 3, "sustain": -1 },
+        "| 24", "a 2b", "a 2b",
+        "| 25", { "name": "g 3b", "sustainDynamic": 1 }, { "name": "g", "dynamic": 2, "sustainDynamic": 2 },
+        "| 26", "c^", "b", "r", "b",
+        "| 27", "a", "g", "r", "b",
+        "| 28", "a", "g", "f", "e",
+        "| 29", "e", "ds", { "dynamic": 2 }, "fs 2b",
+        "| 30", { "dynamic": 1 }, "fs 4b",
+        "| 31", { "sustain": -1 }
     ]
 }
