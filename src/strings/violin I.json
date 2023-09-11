@@ -49,8 +49,8 @@
         { "instrument": "flute" }, "c^^", "bb^",
         { "instrument": "harp" }, "bb", "a",
         { "instrument": "flute" }, "a^",
-        "| 29", { "sustain": -1 }, "bb^ 1", "a^ 1", "gs^ 1", "a^ 1", "gs^", { "instrument": "harp" }, "e^ 2b", "e 2b", "e^",
-        "| 30", { "sustain": true, "dynamic": 2 }, "f^", { "name": "ab^", "instrument": "flute" }, "f^", "d^", "b", "g", "f", "d",
+        "| 29", { "dynamic": 2, "sustain": -1 }, "bb^ 1", "a^ 1", "gs^ 1", "a^ 1", "gs^", { "instrument": "harp" }, "e^ 2b", "e 2b", "e^",
+        "| 30", { "sustain": true }, "f^", { "name": "ab^", "instrument": "flute" }, "f^", "d^", "b", "g", "f", "d",
         "| 31", { "dynamic": 1 }
     ]
 }

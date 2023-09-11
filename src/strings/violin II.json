@@ -32,8 +32,8 @@
         "| 26", "d 2b", "e", "e", "e", "e 2b", { "name": "e", "sustain": true },
         "| 27", { "name": "gs 2b", "dynamic": 2 }, { "dynamic": 3 }, "a 1", "e 1", "a 1", " e^ 1", { "dynamic": 4 }, "e^", "e^ 2b", "e^",
         "| 28", { "dynamic": 3, "sustainDynamic": "-1" }, "f^", "a", "g", "g^", "f^", "f", "c^", "a",
-        "| 29", "d^ 1", "c^ 1", "b 1", "c^ 1", "b", "gs", "g", "g 2b", "g",
-        "| 30", { "dynamic": 2 }, "ab", "ab", "ab", "ab", "d", "b_", "b_", "b_",
+        "| 29", { "dynamic": 2 }, "d^ 1", "c^ 1", "b 1", "c^ 1", "b", "gs", "g", "g 2b", "g",
+        "| 30", "ab", "ab", "ab", "ab", "d", "b_", "b_", "b_",
         "| 31", { "dynamic": 1, "sustain": true }
     ]
 }
