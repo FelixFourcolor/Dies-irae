@@ -37,9 +37,13 @@
         "| 31", { "sustain": true, "sustainDynamic": 1 }, "eb 4b", "eb 4b",
         "| 32", "g 4b", "g 4b",
         "| 33", { "sustain": -1 }, "g", "g 2b", "g 2b", "g 2b", "g",
-        "| 34", { "dynamic": 3, "sustain": true }, "e 4b", "e 4b",
+        "| 34", { "sustain": true }, "e 4b", "e 4b",
         "| 35", "e 4b", "e 4b",
         "| 36", { "sustain": -1 }, "a", "a 2b", "a 2b", "a 2b", "a",
-        "| 37", { "sustain": true }
+        "| 37", { "dynamic": 3, "sustain": true }, "g 4b", "eb 4b",
+        "| 38", "d 4b", "c 4b",
+        "| 39", { "dynamic": 4, "sustainDynamic": 2 }, "g 4b", "f 4b",
+        "| 40", { "sustainDynamic": 3 }, "f 2b", "e 2b", { "sustainDynamic": 2, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 41", { "sustain": true }
     ]
 }

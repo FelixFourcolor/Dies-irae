@@ -37,14 +37,18 @@
         "| 26", "d^", "c^", "r", "c^",
         "| 27", "b", "a", { "beat": 2 }, "r", "a_", "a", "g",
         "| 28", "f", "f^", "e^", "e", "d", "d^", "a", "a_",
-        "| 29", { "dynamic": 2 }, "e", "e^", "e", "e", { "beat": 4 }, "e 2b",
+        "| 29", "e", "e^", "e", "e", { "beat": 4, "dynamic": 2 }, "e 2b",
         "| 30", { "dynamic": 1 }, "f 2b", "g 2b",
         "| 31", { "beat": 2, "sustain": false }, "c", "eb", "g", "c^", "c", "eb", "g", "c^",
         "| 32", { "beat": 4, "sustain": -1 }, "c", "c^", "c^", "c^",
         "| 33", { "name": "c^", "sustain": true }, "bb", "bb 2b",
-        "| 34", { "dynamic": 2, "sustain": true }, "bb 2b.", "bb",
+        "| 34", "bb 2b.", "bb",
         "| 35", "bb", "a", "a", "g",
-        "| 36", "g", { "name": "f", "dynamic": 1 }, { "beat": 2 }, "f", "d", "a_", { "name": "f_", "transpose": 12 },
-        "| 37"
+        "| 36", { "name": "g", "sustain": true }, "f", { "beat": 2 }, "f", "d", "a_", { "name": "f_", "transpose": 12 },
+        "| 37", { "dynamic": 2, "sustain": true }, "g_", "bb_", "eb", "g", "a_", "c", "fs", "a",
+        "| 38", "bb_", "d", "g", "bb", "a_", "c", "f", "a",
+        "| 39", "g_", "bb_", "eb", "g", { "dynamic": 3 }, "gs_", "b_", "d", "gs",
+        "| 40", "a 2b", "a_ 2b", { "beat": 2, "sustain": -1 }, "a 2b.", "a",
+        "| 41", { "sustain": true }
     ]
 }

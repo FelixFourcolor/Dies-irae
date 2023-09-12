@@ -41,9 +41,12 @@
         "| 31", { "sustain": -1 }, "g 2b", "g 2b",
         "| 32", "bb", "g", "d", "g",
         "| 33", { "name": "g", "sustain": true }, "gs", "gs 2b",
-        "| 34", { "dynamic": 2, "sustain": true }, "gs 2b", "gs 2b",
+        "| 34", "gs 2b", "gs 2b",
         "| 35", "b", "gs", "e", "gs",
-        "| 36", "gs", { "name": "a", "dynamic": 1 }, "a 2b",
-        "| 37"
+        "| 36", { "name": "gs", "sustain": true }, "a", "a 2b",
+        "| 37", { "dynamic": 2, "sustain": true }, "bb 2b", "g 2b",
+        "| 38", { "dynamic": 3 }, "f 2b", "c^ 2b",
+        "| 39", "bb 2b", "a 2b",
+        "| 40", "a", "gs"
     ]
 }

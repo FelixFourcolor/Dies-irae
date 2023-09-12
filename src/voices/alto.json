@@ -37,9 +37,12 @@
         "| 31", "g 2b.", { "sustain": -1 }, "g",
         "| 32", "g", { "dynamic": 1 }, "g", "g", "g",
         "| 33", { "dynamic": 2 }, "g 2b", { "sustain": -3 }, "g 2b",
-        "| 34", { "dynamic": 3 }, "g 2b.", { "sustain": -1 }, "e",
-        "| 35", "g", { "dynamic": 2 }, "g", "e", "a",
-        "| 36", { "dynamic": 3 }, "a 2b", { "sustain": -3 }, "a 2b",
-        "| 37"
+        "| 34", "g 2b.", { "sustain": -1 }, "e",
+        "| 35", "g", { "dynamic": 1 }, "g", "e", "a",
+        "| 36", { "dynamic": 2 }, "a 2b", { "sustain": -3 }, "a 2b",
+        "| 37", { "dynamic": 3 }, "bb 2b", { "name": "c^ .", "sustain": true }, { "name": "a 2", "dynamic": 1 },
+        "| 38", "g 2b", "a 2b",
+        "| 39", { "dynamic": 4 }, "bb 2b", { "name": "b 2b", "sustain": -1 },
+        "| 40", { "name": "a", "sustain": true, "sustainDynamic": 3 }, "a"
     ]
 }

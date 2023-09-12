@@ -37,9 +37,12 @@
         "| 31", "eb^ 2b.", { "sustain": -1 }, "eb^",
         "| 32", "eb^", { "dynamic": 1 }, "eb^", "eb^", "eb^",
         "| 33", { "dynamic": 2 }, { "name": "eb^", "sustain": true }, { "name": "e^", "dynamic": 1 }, { "sustain": -3 }, "e^ 2b",
-        "| 34", { "dynamic": 3 }, "e^ 2b.", { "sustain": -1 }, "cs^",
-        "| 35", "cs^", { "dynamic": 2 }, "e^", "c^", "e^",
-        "| 36", { "dynamic": 3 }, { "name": "e^", "sustain": true }, { "name": "f^", "dynamic": 2, "sustainDynamic": 2 }, { "sustain": -3 }, "f^ 2b",
-        "| 37"
+        "| 34", "e^ 2b.", { "sustain": -1 }, "cs^",
+        "| 35", "cs^", { "dynamic": 1 }, "e^", "c^", "e^",
+        "| 36", { "dynamic": 2 }, { "name": "e^", "sustain": true }, { "name": "f^", "dynamic": 1 }, { "sustain": -3 }, "f^ 2b",
+        "| 37", { "dynamic": 3 }, "eb^ 2b", "eb^ 2b",
+        "| 38", "d^ 2b", { "dynamic": 4 }, "c^ 2b",
+        "| 39", "bb 2b", { "name": "f^ 2b", "sustain": -1 },
+        "| 40", { "name": "f^", "sustain": true, "sustainDynamic": 3 }, "e^"
     ]
 }
