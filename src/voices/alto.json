@@ -14,10 +14,10 @@
         "| 8", { "name": "a", "sustain": true }, { "name": "a", "dynamic": 3 }, "r 2b",
         "||9",
         "| 10", "a 2b.", { "sustain": -1 }, "a",
-        "| 11", { "dynamic": 3 }, "f", "c", "f", "a",
+        "| 11", "f", { "dynamic": 3 }, "c", "f", "a",
         "| 12", { "dynamic": 4 }, "c^ 2b", { "sustain": -3 }, "a 2b",
         "| 13", "d 2b.", { "sustain": -1 }, "g",
-        "| 14", { "dynamic": 3 }, "d", "d", "g", "b",
+        "| 14", "d", { "dynamic": 3 }, "d", "g", "b",
         "| 15", { "dynamic": 4 }, "d^ 2b", { "sustain": -3 }, "b 2b",
         "| 16", "a 2b", "gs 2b",
         "| 17", { "name": "a", "sustain": true }, { "name": "c^ 2b", "dynamic": 2, "sustainDynamic": 2 }, "b 2", "a 2",
@@ -34,6 +34,12 @@
         "| 28", { "sustain": -1 }, "a", "g", "f", "e", { "sustain": -3 },
         "| 29", { "name": "e", "sustain": true }, { "dynamic": 2 }, "e", "r 2b",
         "||30",
-        "| 31"
+        "| 31", "g 2b.", { "sustain": -1 }, "g",
+        "| 32", "g", { "dynamic": 1 }, "g", "g", "g",
+        "| 33", { "dynamic": 2 }, "g 2b", { "sustain": -3 }, "g 2b",
+        "| 34", { "dynamic": 3 }, "g 2b.", { "sustain": -1 }, "e",
+        "| 35", "g", { "dynamic": 2 }, "g", "e", "a",
+        "| 36", { "dynamic": 3 }, "a 2b", { "sustain": -3 }, "a 2b",
+        "| 37"
     ]
 }

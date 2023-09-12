@@ -38,6 +38,12 @@
         "| 28", "a", "g", "f", "e",
         "| 29", "e", "ds", { "dynamic": 2 }, "fs 2b",
         "| 30", { "dynamic": 1 }, "fs 4b",
-        "| 31", { "sustain": -1 }
+        "| 31", { "sustain": -1 }, "g 2b", "g 2b",
+        "| 32", "bb", "g", "d", "g",
+        "| 33", { "name": "g", "sustain": true }, "gs", "gs 2b",
+        "| 34", { "dynamic": 2, "sustain": true }, "gs 2b", "gs 2b",
+        "| 35", "b", "gs", "e", "gs",
+        "| 36", "gs", { "name": "a", "dynamic": 1 }, "a 2b",
+        "| 37"
     ]
 }

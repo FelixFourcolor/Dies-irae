@@ -51,6 +51,12 @@
         { "instrument": "flute" }, "a^",
         "| 29", { "dynamic": 2, "sustain": -1 }, "bb^ 1", "a^ 1", "gs^ 1", "a^ 1", "gs^", { "instrument": "harp" }, "e^ 2b", "e 2b", "e^",
         "| 30", { "sustain": true }, "f^", { "name": "ab^", "instrument": "flute" }, "f^", "d^", "b", "g", "f", "d",
-        "| 31", { "dynamic": 1 }
+        "| 31", { "dynamic": 1, "sustainDynamic": 1 }, { "name": "c^ 1", "dynamic": 2 }, "g 4b -1", { "name": "c^ 1", "dynamic": 2 }, "g 4b -1",
+        "| 32", { "name": "eb^ 1", "dynamic": 2 }, "c^ 4b -1", { "name": "g 1", "dynamic": 2 }, "c^ 4b -1",
+        "| 33", { "dynamic": 2, "sustain": -1 }, "c^", { "name": "c^", "sustain": true }, { "name": "cs^", "dynamic": 1 }, "cs^ 2b", "cs^ 2b", "c^",
+        "| 34", { "dynamic": 1, "sustain": true }, { "name": "cs^ 1", "dynamic": 3 }, "g 4b -1", { "name": "cs^ 1", "dynamic": 3 }, "g 4b -1",
+        "| 35", { "name": "e^ 1", "dynamic": 3 }, "cs^ 4b -1", { "name": "a 1", "dynamic": 3 }, "cs^ 4b -1",
+        "| 36", { "dynamic": 3, "sustain": -1 }, "cs^", { "name": "cs^", "sustain": true }, { "name": "d^", "dynamic": 1 }, "d^ 2b", "d^ 2b", "d^",
+        "| 37", { "dynamic": 1, "sustain": true }
     ]
 }
