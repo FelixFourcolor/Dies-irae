@@ -43,6 +43,16 @@
         "| 37", { "dynamic": 3 }, "eb^ 2b", "eb^ 2b",
         "| 38", "d^ 2b", { "dynamic": 4 }, "c^ 2b",
         "| 39", "bb 2b", { "name": "f^ 2b", "sustain": -1 },
-        "| 40", { "name": "f^", "sustain": true, "sustainDynamic": 3 }, "e^"
+        "| 40", { "name": "f^", "sustain": true }, { "name": "e^", "dynamic": 3 }, "r 2b",
+        "||41", { "dynamic": 1 },
+        "| 42", "r 2b", { "name": "cs^ .", "dynamic": 2, "sustain": -1 }, "cs^ 2",
+        "| 43", { "name": "d^", "dynamic": 2, "sustain": true }, "cs^", { "name": "cs^ .", "dynamic": 2, "sustain": -1 }, "cs^ 2",
+        "| 44", { "name": "d^", "dynamic": 2, "sustain": true }, "a", "r 2b",
+        "||45",
+        "| 46", "r 2b", { "name": "cs^ .", "dynamic": 2, "sustain": -1 }, "cs^ 2",
+        "| 47", { "name": "d^", "dynamic": 2, "sustain": true }, "cs^", { "name": "cs^ .", "dynamic": 2, "sustain": -1 }, "cs^ 2",
+        "| 48", { "name": "d^", "dynamic": 2, "sustain": true }, "a", "r 2b",
+        "||49",
+        "| 50"
     ]
 }

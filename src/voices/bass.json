@@ -43,7 +43,16 @@
         "| 37", { "dynamic": 3 }, "g 2b", "a 2b",
         "| 38", { "dynamic": 4 }, "bb 2b", "a 2b",
         "| 39", "g 2b", { "name": "gs 2b", "sustain": -1 },
-        "| 40", { "name": "a", "sustain": true, "sustainDynamic": 3 }, "a", { "beat": 2, "sustain": -1 }, "a 2b.", "a",
-        "| 41", { "sustain": true }
+        "| 40", { "name": "a", "sustain": true }, { "name": "a", "dynamic": 3 }, { "beat": 2, "sustainDynamic": 3, "sustain": -1 }, "a 2b.", "a",
+        "| 41", { "dynamic": 3 }, { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a",
+        "| 42", { "name": "bb 2b", "dynamic": 4, "sustain": true }, { "name": "a 2b", "sustain": false }, "r 4b",
+        "||43",
+        "| 44", "r 4b", { "dynamic": 4 }, "a 2b.", "a",
+        "| 45", { "dynamic": 3 }, { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a",
+        "| 46", { "name": "bb 2b", "dynamic": 4, "sustain": true }, { "name": "a 2b", "sustain": false }, "r 4b",
+        "||47",
+        "| 48", "r 4b", { "dynamic": 4 }, "a 2b.", "a",
+        "| 49", { "dynamic": 3 }, { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a", { "name": "gs", "dynamic": 4, "sustain": true }, "a",
+        "| 50"
     ]
 }

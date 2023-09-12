@@ -49,6 +49,15 @@
         "| 38", "d 2b", "c 2b",
         "| 39", { "dynamic": 3 }, "bb_ 2b", "f 2b",
         "| 40", "f", "e", { "beat": 2, "sustain": -1 }, "a_ 2b.", "a_",
-        "| 41", { "sustain": true }
+        "| 41", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 42", { "sustain": false }, "bb_ 2b", "a_ 2b", { "dynamic": 1, "sustain": -3 }, "cs 2b.", "cs",
+        "| 43", "d 2b", "cs 2b", "cs 2b.", "cs",
+        "| 44", "d 2b", "cs 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 45", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 46", { "sustain": false }, "bb_ 2b", "a_ 2b", { "dynamic": 1, "sustain": -3 }, "cs 2b.", "cs",
+        "| 47", "d 2b", "cs 2b", "cs 2b.", "cs",
+        "| 48", "d 2b", "cs 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 49", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 50"
     ]
 }

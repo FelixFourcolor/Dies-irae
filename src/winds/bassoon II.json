@@ -49,6 +49,15 @@
         "| 38", "bb_", "d", "g", "bb", "a_", "c", "f", "a",
         "| 39", "g_", "bb_", "eb", "g", { "dynamic": 3 }, "gs_", "b_", "d", "gs",
         "| 40", "a 2b", "a_ 2b", { "beat": 2, "sustain": -1 }, "a 2b.", "a",
-        "| 41", { "sustain": true }
+        "| 41", { "sustain": true }, "gs", "a", "gs", "a", "gs", "a", "gs", "a",
+        "| 42", { "sustain": false }, "bb 2b", "a 2b", { "dynamic": 1 }, "cs^ 2b.", "cs^",
+        "| 43", "d^ 2b", "cs^ 2b", "cs^ 2b.", "cs^",
+        "| 44", "d^ 2b", "cs^ 2b", { "dynamic": 3 }, "a 2b.", "a",
+        "| 45", { "sustain": true }, "gs", "a", "gs", "a", "gs", "a", "gs", "a",
+        "| 46", { "sustain": false }, "bb 2b", "a 2b", { "dynamic": 1 }, "cs^ 2b.", "cs^",
+        "| 47", "d^ 2b", "cs^ 2b", "cs^ 2b.", "cs^",
+        "| 48", "d^ 2b", "cs^ 2b", { "dynamic": 3 }, "a 2b.", "a",
+        "| 49", { "sustain": true }, "gs", "a", "gs", "a", "gs", "a", "gs", "a",
+        "| 50"
     ]
 }

@@ -43,7 +43,16 @@
         "| 37", { "dynamic": 3, "sustain": true }, "g 4b", "eb 4b",
         "| 38", "d 4b", "c 4b",
         "| 39", { "dynamic": 4, "sustainDynamic": 2 }, "g 4b", "f 4b",
-        "| 40", { "sustainDynamic": 3 }, "f 2b", "e 2b", { "sustainDynamic": 2, "sustain": -1 }, "a_ 2b.", "a_",
-        "| 41", { "sustain": true }
+        "| 40", "f 2b", "e 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 41", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 42", { "sustain": false }, "bb_ 2b", "a_ 2b", { "dynamic": 1, "sustain": -3 }, "a 2b.", "a",
+        "| 43", "gs 2b", "a 2b", "a 2b.", "a",
+        "| 44", "gs 2b", "a 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 45", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 46", { "sustain": false }, "bb_ 2b", "a_ 2b", { "dynamic": 1, "sustain": -3 }, "e 2b.", "e",
+        "| 47", "f 2b", "e 2b", "e 2b.", "e",
+        "| 48", "f 2b", "e 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
+        "| 49", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
+        "| 50"
     ]
 }
