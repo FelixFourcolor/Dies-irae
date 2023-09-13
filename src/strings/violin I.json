@@ -29,7 +29,7 @@
         { "instrument": "flute" }, "a^",
         { "instrument": "harp" }, "b",
         { "instrument": "flute" }, "gs^",
-        "| 19", { "instrument": "harp" }, { "name": "a", "dynamic": 4, "sustainDynamic": 1 }, { "dynamic": 2, "sustainDynamic": "+0" },
+        "| 19", { "instrument": "harp" }, { "name": "a", "sustainDynamic": 1 }, { "dynamic": 2, "sustainDynamic": "+0" },
         { "instrument": "flute" }, "c^^", "a^", { "instrument": "harp" }, "g^", "f^", "e^", "ds^", "fs^",
         "| 20", { "dynamic": 3 }, "e^", "d^", { "instrument": "flute" }, "b^", "a^", "gs^", { "instrument": "harp" }, "f^", "e^", "d^",
         "| 21", { "dynamic": 4 }, "c^",
@@ -72,6 +72,28 @@
         "| 49", { "sustain": true, "sustainDynamic": 2 }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
         "| 50", { "dynamic": 3 }, { "name": "bb_", "sustain": false }, "g", "bb", "d^", { "dynamic": 4, "sustain": -1 }, "g^", "g^ 2b", "g^",
         "| 51", { "dynamic": 3, "sustain": true }, "fs^", "g^", "fs^", "g^", "fs^", "g^", "fs^", "g^",
-        "| 52", { "beat": 1 }, "g^", "e^", "g^", "e^", "cs^", "a", "cs^", "e^", { "beat": 2, "dynamic": 4, "sustain": -1, "instrument": "flute" }, "a^", "a^ 2b", "a^ 1b 1b"
+        "| 52", { "beat": 1 }, "g^", "e^", "g^", "e^", "cs^", "a", "cs^", "e^", { "beat": 2, "dynamic": 4, "sustain": -1, "instrument": "flute" }, "a^", "a^ 2b", "a^ 1b 1b",
+        "a^ 2b", "a^ 2b", "a^ 2b", "a^ 1b 2b",
+        { "instrument": "harp", "dynamic": 3 }, "cs^ 1", "a 1", "cs^ 1", "e^ 1", { "instrument": "flute", "dynamic": 4 }, "a^", "a^ 2b", "a^ 1b 1b",
+        "a^ 2b", "a^ 2b", "a^ 2b", "a^ 1b 1b",
+        "a^ 2b", { "dynamic": 3, "sustain": true }, "a^", { "instrument": "harp" }, "f^", "d^", "f^", { "instrument": "flute" }, "a^",
+        "| 57", "d^^", "a^", { "instrument": "harp" }, "f^", "d^", { "instrument": "flute" }, "d^^", "a^", { "instrument": "harp" }, "f^", "d^",
+        "| 58", { "instrument": "flute" }, "d^^", "a^", { "instrument": "harp" }, "f^", "d^", { "instrument": "flute" }, "d^^", "a^", { "instrument": "harp" }, "f^", "d^",
+        "| 59", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "f^", "d^", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "g^", "e^",
+        "| 60", { "name": "cs^^", "instrument": "flute" }, "g^", "f^", { "name": "d^^", "instrument": "flute" },
+        "e^", { "name": "d^^", "instrument": "flute" }, "e^", { "instrument": "flute" }, "cs^^",
+        "| 61", "d^^", "a^", { "instrument": "harp" }, "f^", "d^", { "instrument": "flute" }, "d^^", "a^", { "instrument": "harp" }, "f^", "d^",
+        "| 62", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "f^", "d^", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "f^", "d^",
+        "| 63", { "instrument": "flute" }, "eb^^", "bb^", { "instrument": "harp" }, "g^", "eb^", { "name": "bb^", "instrument": "flute" }, "g^", "eb^", "d^",
+        "| 64", "cs^", "g^", "f^", { "name": "d^^", "instrument": "flute" },
+        "e^", { "name": "d^^", "instrument": "flute" }, "a", { "instrument": "flute" }, "cs^^",
+        "| 65", { "sustainDynamic": 1 }, "d^^", { "instrument": "harp", "dynamic": 2 }, "f^", "d^", "c^",
+        { "sustainDynamic": 2 }, "bb", "a", "gs", "b",
+        "| 66", { "dynamic": 3 }, "a", "g^", "e^", "d^",
+        { "sustainDynamic": 3 }, "cs^", { "instrument": "flute" }, "bb^", "a^", { "instrument": "harp" }, "g^",
+        "| 67", { "dynamic": 4 }, "f^", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "g^",
+        { "sustainDynamic": 4 }, "f^", { "name": "d^^", "instrument": "flute" }, "e^", { "instrument": "flute" }, "cs^^",
+        "| 68", { "sustain": false }, "d^^ 2b", { "instrument": "harp" }, "d^ 2b"
+
     ]
 }
