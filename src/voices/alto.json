@@ -53,6 +53,9 @@
         "| 47", { "name": "gs", "dynamic": 2, "sustain": true }, "a", { "name": "a .", "dynamic": 2, "sustain": -1 }, "a 2",
         "| 48", { "name": "gs", "dynamic": 2, "sustain": true }, "a", "r 2b",
         "||49",
-        "| 50"
+        "| 50", { "beat": 2 }, "r 4b", { "sustain": -1, "dynamic": 4 }, "g 2b.", "g", { "dynamic": 2, "sustainDynamic": 2 },
+        "| 51", { "name": "a", "dynamic": 4, "sustain": true }, "bb", { "name": "a", "dynamic": 3, "sustain": true }, "bb", { "name": "a", "dynamic": 3, "sustain": true }, "bb", { "name": "a", "dynamic": 3, "sustain": true }, "bb",
+        "| 52", { "name": "e 2b", "dynamic": 4, "sustain": true }, { "name": "a 2b", "sustain": false }, "r 2b", { "dynamic": 4 }, "a", "e",
+        "| 53"
     ]
 }

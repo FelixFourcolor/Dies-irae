@@ -53,6 +53,9 @@
         "| 47", { "name": "d^", "dynamic": 2, "sustain": true }, "cs^", { "name": "cs^ .", "dynamic": 2, "sustain": -1 }, "cs^ 2",
         "| 48", { "name": "d^", "dynamic": 2, "sustain": true }, "a", "r 2b",
         "||49",
-        "| 50"
+        "| 50", { "beat": 2 }, "r 4b", { "sustain": -1, "dynamic": 4 }, "d^ 2b.", "d^", { "dynamic": 2, "sustainDynamic": 2 },
+        "| 51", { "name": "eb^", "dynamic": 4, "sustain": true }, "d^", { "name": "eb^", "dynamic": 3, "sustain": true }, "d^", { "name": "eb^", "dynamic": 3, "sustain": true }, "d^", { "name": "eb^", "dynamic": 3, "sustain": true }, "d^",
+        "| 52", { "name": "cs^ 2b", "dynamic": 4, "sustain": true }, { "name": "e^ 2b", "sustain": false }, "r 2b", { "dynamic": 4 }, "e^", "e^",
+        "| 53"
     ]
 }

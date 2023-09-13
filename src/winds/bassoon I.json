@@ -58,6 +58,9 @@
         "| 47", "d 2b", "cs 2b", "cs 2b.", "cs",
         "| 48", "d 2b", "cs 2b", { "dynamic": 3, "sustain": -1 }, "a_ 2b.", "a_",
         "| 49", { "sustain": true }, "gs_", "a_", "gs_", "a_", "gs_", "a_", "gs_", "a_",
-        "| 50"
+        "| 50", "bb_", "bb_", "bb_", "bb_", "d 4b",
+        "| 51", { "beat": 2 }, "eb", "d", "eb", "d", "eb", "d", "eb", "d",
+        "| 52", "cs 2b", "e 2b", "r 2b", { "sustain": false }, "a", "a",
+        "| 53"
     ]
 }

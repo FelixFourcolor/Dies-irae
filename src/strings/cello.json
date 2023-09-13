@@ -42,16 +42,19 @@
         "| 37", { "dynamic": 2 }, "g_", "bb_", "eb", "g", "a_", "c", "fs", "a",
         "| 38", { "dynamic": 3 }, "bb_", "d", "g", "bb", "a_", "c", "f", "a",
         "| 39", "g_", "bb_", "eb", "g", "gs_", "b_", "d", "gs",
-        "| 40", { "dynamic": 4 }, { "name": "a 2b", "sustain": true }, { "name": "a_ 2b", "sustain": true }, { "dynamic": 2, "sustain": false }, "a 2b.", "a",
+        "| 40", { "name": "a 2b", "sustain": true }, { "name": "a_ 2b", "sustain": true }, { "dynamic": 2 }, "a 2b.", "a",
         "| 41", "gs", "a", "gs", "a", "gs", "a", "gs", "a",
         "| 42", "bb 2b", "a 2b", { "sustain": -3 }, "cs^ 2b.", "cs^",
         "| 43", "d^ 2b", "cs^ 2b", "cs^ 2b.", "cs^",
-        "| 44", "d^ 2b", "cs^ 2b", { "sustain": false }, "a 2b.", "a",
+        "| 44", "d^ 2b", "cs^ 2b", { "sustain": -1 }, "a 2b.", "a",
         "| 45", "gs", "a", "gs", "a", "gs", "a", "gs", "a",
         "| 46", "bb 2b", "a 2b", { "sustain": -3 }, "cs^ 2b.", "cs^",
         "| 47", "d^ 2b", "cs^ 2b", "cs^ 2b.", "cs^",
-        "| 48", "d^ 2b", "cs^ 2b", { "sustain": false }, "a 2b.", "a",
+        "| 48", "d^ 2b", "cs^ 2b", { "sustain": -1 }, "a 2b.", "a",
         "| 49", "gs", "a", "gs", "a", "gs", "a", "gs", "a",
-        "| 50"
+        "| 50", { "dynamic": 3 }, "bb", "bb_", "bb", "bb", "bb", "bb", "bb", "bb",
+        "| 51", "c^", "bb", "c^", "bb", "c^", "bb", "c^", "bb",
+        "| 52", { "sustain": true }, "a 2b", "a_ 2b", { "sustain": -1 }, "r 2b", "a", "a",
+        "| 53"
     ]
 }
