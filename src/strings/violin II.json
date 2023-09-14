@@ -59,7 +59,7 @@
         "| 53", { "sustain": true }, "d^ 2b", "cs^ 2b", "d^ 2b", "cs^ 2b",
         "| 54", "d^ 2b", { "dynamic": 3, "sustain": -1 }, "cs^ 1", "a 1", "cs^ 1", "e^ 1", { "dynamic": 4 }, { "name": "a^", "transpose": -12 }, "f^ 2b", "f^",
         "| 55", { "sustain": true }, "g^ 2b", "f^ 2b", "g^ 2b", "f^ 2b",
-        "| 56", "g^ 2b", "f^", { "dynamic": 3, "transpose": -12 }, "a^", "f^", "d^", "f^", "a^",
+        "| 56", "g^ 2b", "f^", { "dynamic": 2, "sustainDynamic": 1, "transpose": -12 }, "a^", "f^", "d^", "f^", "a^",
         "| 57", "d^^", "a^", "f^", "d^", "d^^", "a^", "f^", "d^",
         "| 58", "d^^", "a^", "f^", "d^", "d^^", "a^", "f^", "d^",
         "| 59", "d^^", "bb^", "f^", "d^", "d^^", "bb^", "g^", "e^",
@@ -70,9 +70,9 @@
         "| 63", "eb^^", "bb^", "g^", "eb^", "bb^", "g^", "eb^", "d^",
         "| 64", "cs^", "g^", "f^", "d^^",
         "e^", "d^^", "a", "cs^^",
-        "| 65", { "transpose": 0, "sustainDynamic": 1 }, "d^", "r", { "dynamic": 2 }, "f", "e", { "sustainDynamic": 2 }, "d", "d", "e", "f",
-        "| 66", { "dynamic": 3 }, "e", "d", "bb", "a", { "sustainDynamic": 3 }, "g", "f", "e", "cs^",
-        "| 67", { "dynamic": 4 }, "d^", "d^", "d^", "d^", { "sustainDynamic": 4 }, "d^", "f^", "cs^", "e^",
+        "| 65", { "transpose": 0 }, "d^", "r", { "sustainDynamic": "+0" }, "f", "e", "d", "d", "e", "f",
+        "| 66", { "dynamic": 3 }, "e", "d", "bb", "a", "g", "f", "e", "cs^",
+        "| 67", { "dynamic": 4 }, "d^", "d^", "d^", "d^", "d^", "f^", "cs^", "e^",
         "| 68", { "sustain": false }, "d^ 2b", "d 2b"
     ]
 }
