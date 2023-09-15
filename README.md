@@ -1,6 +1,8 @@
 # Dies irae
 "Dies irae" in Mozart's Requiem, arranged for Minecraft's noteblocks.
 
+Recording: https://youtu.be/3exOZnZT0w0
+
 ## Arrangement
 Instrumentation:
 * Soprano: bit
