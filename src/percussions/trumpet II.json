@@ -29,7 +29,7 @@
         "| 22", "d 4b", { "dynamic": 3 }, "d 4b", { "dynamic": 4 },
         "| 23", { "name": "d 4b", "sustainDynamic": 1, "sustain": true },
         { "name": "d 2b", "sustainDynamic": 2, "sustain": true },
-        { "name": "d 2b", "sustainDynamic": 3, "sustain": -1 },
+        { "name": "d 2b", "dynamic": 3, "sustainDynamic": 3, "sustain": -1 },
         "| 24", "d 4b", { "dynamic": 3 }, "d 4b", { "dynamic": 4, "sustain": false },
         "| 25", "g", { "dynamic": 3 }, "g 1", "g 1", { "dynamic": 2 }, "g", "g", { "dynamic": 3 }, "g", "g", { "dynamic": 4 }, "g", "g",
         "| 26", { "dynamic": 3 }, { "name": "c 2b", "sustain": 4 }, "g_", "g_", { "name": "g_ 4b", "sustain": 4 },
@@ -59,6 +59,21 @@
         "| 50", "r 4b", "c 4b",
         "||51", { "sustain": false },
         "| 52", "g_", { "dynamic": 3 }, "g_ 1", "g_ 1", { "dynamic": 2 }, "g_", "g_", { "dynamic": 3 }, "g_", "g_", { "dynamic": 4 }, "g_", "g_",
-        "| 53"
+        "| 53", "c", "c", { "dynamic": 3 }, "g_", "g_", "c", "c", "g_", "g_", { "dynamic": 4 },
+        "| 54", { "name": "c 2b", "sustain": 4 }, { "dynamic": 3 }, "g_", "g_", "g_ 2b", "c", "c", { "dynamic": 4 },
+        "| 55", "g_", "g_", { "dynamic": 3 }, "c", "c", "g_", "g_", "c", "c", { "dynamic": 4 },
+        "| 56", { "sustain": 4 }, "g_ 2b", { "name": "c 2b", "dynamic": 3 }, "r 4b",
+        "| 57", "c 8b",
+        "| 58", "c 8b",
+        "| 59", "c 8b",
+        "| 60", "g 2b", { "name": "c 2b", "dynamic": 3 }, { "name": "g_ 2b", "sustainDynamic": 2 }, { "name": "g_ 2b", "dynamic": 3, "sustainDynamic": 3 },
+        "| 61", "c 8b",
+        "| 62", "c 8b",
+        "||63",
+        "| 64", "g_ 2b", { "dynamic": 3, "sustain": false }, "c", "c", { "name": "g_ 2b", "dynamic": 4 }, "g_", "g_",
+        "| 65", { "dynamic": 4, "sustain": 4 }, "c 8b",
+        "||66",
+        "| 67", "c 2b", "r 2b", "g_ 2b", { "sustain": false }, "g_", "g_",
+        "| 68", "c"
     ]
 }
