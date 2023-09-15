@@ -13,7 +13,7 @@
         "| 6", "r 2b", "g", "g", { "sustain": 4 }, "g 4b",
         "| 7", { "dynamic": 4 }, { "name": "c^ 4b", "sustain": true }, "d^ 2b", "c^ 2b",
         "| 8", "g 2b", { "dynamic": 3, "sustain": false }, "g", "g", { "dynamic": 2 }, "g", "g", { "dynamic": 1 }, "g", "g",
-        "| 9", { "dynamic": 0 }, "g 8b",
+        "| 9", "g 8b",
         "||10",
         "||11",
         "| 12", { "sustain": false, "dynamic": 3 }, "r 4b", "c^", "c^", { "dynamic": 4 }, "c^", "c^",
