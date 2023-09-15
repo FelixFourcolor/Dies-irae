@@ -15,8 +15,8 @@
         "strings/violin II.json",
         "strings/viola.json",
         "voices/bass.json",
-        "voices/tenor.json",
         "voices/alto.json",
+        "voices/tenor.json",
         "voices/soprano.json"
     ]
 }

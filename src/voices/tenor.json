@@ -24,7 +24,7 @@
         "| 18", "e^", "e^", "e^ 2b",
         "| 19", { "name": "e^", "sustain": true }, "r 3b",
         "||20",
-        "||21", { "sustain": 3 },
+        "||21", { "sustain": -3 },
         "| 22", { "name": "e^ 2b", "sustain": -1 }, "e^ 2b",
         "| 23", { "name": "d^", "sustain": true }, { "name": "d^", "dynamic": 3 }, "r 2b",
         "| 24", { "name": "d^ 2b", "sustain": -1 }, "d^ 2b",
