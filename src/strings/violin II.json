@@ -73,6 +73,6 @@
         "| 65", { "transpose": 0 }, "d^", "r", { "sustainDynamic": "+0" }, "f", "e", "d", "d", "e", "f",
         "| 66", { "dynamic": 3 }, "e", "d", "bb", "a", "g", "f", "e", "cs^",
         "| 67", { "dynamic": 4 }, "d^", "d^", "d^", "d^", "d^", "f^", "cs^", "e^",
-        "| 68", { "sustain": false }, "d^ 2b", "d 2b"
+        "| 68", { "name": "d^ 2b", "sustain": false }, { "sustainDynamic": 2 }, "d 2b 1"
     ]
 }

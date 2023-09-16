@@ -90,7 +90,7 @@
         "| 65", "d^^", { "instrument": "harp", "dynamic": 2, "sustainDynamic": "+0" }, "f^", "d^", "c^", "bb", "a", "gs", "b",
         "| 66", { "dynamic": 3 }, "a", "g^", "e^", "d^", "cs^", { "instrument": "flute" }, "bb^", "a^", { "instrument": "harp" }, "g^",
         "| 67", { "dynamic": 4 }, "f^", { "instrument": "flute" }, "d^^", "bb^", { "instrument": "harp" }, "g^", "f^", { "name": "d^^", "instrument": "flute" }, "e^", { "instrument": "flute" }, "cs^^",
-        "| 68", { "sustain": false }, "d^^ 2b", { "instrument": "harp" }, "d^ 2b"
+        "| 68", { "name": "d^^ 2b", "sustain": false }, { "instrument": "harp", "sustainDynamic": 2 }, "d^ 2b 1"
 
     ]
 }
