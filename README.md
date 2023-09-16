@@ -29,7 +29,7 @@ To obtain the folder, you may clone the repo or use third-party tools such as [D
 
 ## Build from source
 ### Build requirements
-* python 3.10+
+* python >= 3.10, < 3.12
 * pip
 
 ### Overview of the build process
@@ -53,6 +53,3 @@ The structure is auto-generated using [noteblock-generator](https://github.com/F
     ```
 
     (See [noteblock-generator](https://github.com/FelixFourcolor/noteblock-generator)'s documentation for explanation and more build options.)
-
-## License
-This project, including the uploaded YouTube video, is given to the public domain. No rights reserved.
