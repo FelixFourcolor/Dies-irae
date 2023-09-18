@@ -3,7 +3,7 @@
 
 Recording: https://youtu.be/3exOZnZT0w0
 
-Note: The structure shown in the YouTube video was made at commit [40b4078](https://github.com/FelixFourcolor/Dies-irae/commit/40b40787490af010d4dd98415a79fe3330039dc1). A few improvements have been made since then. You can revert to this commit if you want an exact replica of what was shown in the video.
+Note: A few changes have been made since the release of the YouTube video. You can switch to the [YouTube branch](https://github.com/FelixFourcolor/Dies-irae/tree/YouTube) for an exact replica of what was shown in the video. Otherwise, stay on the main branch for the latest version.
 
 ## Arrangement
 Instrumentation:
