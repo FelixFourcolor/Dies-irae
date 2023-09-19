@@ -18,6 +18,7 @@ Instrumentation:
 * Bassoon II: didgeridoo
 * Trumpet I & II: pling
 * Timpani: bass + base drum
+* Alto, tenor, bass trombones (doubling alto, tenor, bass) are omitted
 
 Tranposed down one semitone to better fit noteblock's ranges. However, a few notes still do not fit, then they are either transposed up/down an octave or played by a different instrument, depending on which sounds better to me.
 
