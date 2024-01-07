@@ -29,7 +29,7 @@ Tranposed down one semitone to better fit noteblock's ranges. However, a few not
 
 Minecraft Java 1.20 to play the pre-built world; 1.19+ if you build from source.
 
-Go to Music & Sounds settings and turn on Directional Audio. Optionally, turn down Master Volume to about 50% to 60%, otherwise it might be a bit too loud (but of course this depends on your speakers).
+Optionally, go to Music & Sounds settings and turn down Master Volume to about 50% to 60%, otherwise it might be a bit too loud.
 
 ## Easy install
 
